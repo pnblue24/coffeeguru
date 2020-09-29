@@ -1,0 +1,38 @@
+
+https://api.yelp.com/v3/businesses/search?term=restaurants&location=92683
+
+
+Client ID
+35KVYJRI9nPKAuUx_CE14Q
+
+API 
+5SqoYD6-uyiIUB0QNTcb2q7Myk5lK5E0Xpk2tdSdnVfDKXDnGl1jifYm_u6R8-ps5QAXQbprlnMv4Q6gQUOEiK--nTiyKUW8UkjF4EX6B_Dv7xZEEYP7ziH3DmtcX3Yx
+
+https://www.youtube.com/watch?v=OWNxUVnY3pg&t=6s&ab_channel=EasyTutorials
+
+
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
+
+https://uci.bootcampcontent.com/UCI-Coding-Bootcamp/uci-irv-fsf-pt-06-2020-u-c/blob/master/01-Class-Content/07-Project-1/04-Supplemental/API_Resources.md
+
+
+
+APP ID
+5Ex9bAZ1dxZAjUTDdo4V
+
+BNZCSZ3oLzPpAyBf8HacsEd1UEBl0xWx-eLOAxFK2Jo
+
+
+
+APP ID
+PZcF1gbC534WULYnlKsT
+
+bPdW_VCTlAxAQ5usr_rTwEdh6gw8rit19eHp5sAWExw
+
+
+youtube api key
+AIzaSyAqCV1HqeyAXgrxbL3RwerqE7vpOwZs2AY
+
+
+Zomhato
+c32d496b4c7f420d53468a1c4000c099

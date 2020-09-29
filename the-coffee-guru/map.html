@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js">
+    <title>The Coffee Guru</title>
+</head>
+<body>
+    <div id="map-page">
+        <div class="topnav">
+            <a href="index.html">Home</a>
+            <a class="active" href="map.html">Map</a>
+            <a href="about.html">About</a>
+            <a href="preferences.html">Preference</a>
+            <a href="login.html">Login</a>
+        
+        </div>
+
+        <header id="map">
+
+                    <div class="ui modal"></div>
+                        <div class="header">
+                            <h3>find out where your next cup is coming from!</h3></div>
+                        <div class="content">
+                        </div>
+       
+        <button onclick="search()">Search</button>
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBSGn19zTLQPPl44jz1MAp4VOV-zhy-P7o&libraries=places"></script>
+        </script>
+    
+
+        <div id="map-box"> 
+            <div id="map"></div>
+            <script src="js/map.js"></script>
+            <script src="js/search.js"></script>
+            <script defer
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBSGn19zTLQPPl44jz1MAp4VOV-zhy-P7o&callback=initMap">
+    </div>
+    
+</header>
+</body>
+</html>
+
+
